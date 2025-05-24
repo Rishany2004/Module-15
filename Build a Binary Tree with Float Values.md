@@ -32,7 +32,7 @@ print('List of nodes :',[root,root.left,root.right])
 
 ## OUTPUT
 ```
-![image](https://github.com/user-attachments/assets/3ec40c67-4a05-438c-ada4-d6da991737a2)
+![image](https://github.com/user-attachments/assets/8d6ed356-16be-4e97-b8e8-05ed789ca100)
 
 
 ```
