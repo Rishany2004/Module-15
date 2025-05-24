@@ -34,7 +34,6 @@ print('List of nodes :',[root,root.left,root.right])
 ```
 ![image](https://github.com/user-attachments/assets/8d6ed356-16be-4e97-b8e8-05ed789ca100)
 
-
 ```
 
 ## RESULT
