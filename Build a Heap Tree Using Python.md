@@ -19,11 +19,16 @@ To write a Python program to build a heap tree using appropriate Python package 
 ## PROGRAM:
 
 ```
-WRITE YOUR CODE
+ Import the heapq module
+import heapq
+def heaptree(H):
+    heapq.heapify(H)
+    print(f"The created Heap is {H}")
 ```
 
 ## OUTPUT
-```
-```
+![image](https://github.com/user-attachments/assets/48f5d924-0840-4725-a5db-a1fba0134df4)
+
 
 ## RESULT
+Thus, the python program to build a heap tree using appropriate Python package and function has been executed and verified successfully.
