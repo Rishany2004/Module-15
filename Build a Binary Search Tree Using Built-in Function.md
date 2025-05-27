@@ -49,10 +49,9 @@ print("\nIs this a Binary Search Tree? ",l.is_bst)
 ```
 
 ## OUTPUT
-```
+
 ![image](https://github.com/user-attachments/assets/d8453b50-ac46-4d3e-8420-da2b36c0356d)
 
-```
 
 ## RESULT
 Thus, the python program to build a binary search tree using a built-in function has been executed and verified successfully.
